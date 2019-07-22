@@ -1,0 +1,8 @@
+***** Heat map color range for RMSF *****
+  - blue and red represent low and high relative flexiblity, respectively.
+  - bluest = 0 percentile RMSF
+  - redest >= 95 percentile RMSF
+-----------------------------------------
+ Minimum RMSF (bluest) = 0.432732 nm
+ 95% RMSF (redest) = 2.302189 nm
+ Maximum RMSF = 3.564601 nm
