@@ -1,135 +1,135 @@
 [Notation]
 	l : lid
-	b : box
+	b : base
 	T : top
 	B : bottom
 	L : left-hand side
 	R : right-hand side
-	Correspondence level ＝ # of paired bases / total # of bases
+	Affinity level ＝ # of paired bases / total # of bases
 ==============================================================
 Tb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
 Tl-B_A                :   3'-TGACCGGGCCAGCGACAAAAAAAA-5'
 # of paired bases     : 22
 Total # of bases      : 42
-Correspondence level  : 0.5238095238095238
+Affinity level  : 0.5238095238095238
 ==============================================================
 Tb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
 T-D'_C_F'_B           :         3'-GTGGCATCGACGTGGAAGGTGACCG-5'
 # of paired bases     : 26
 Total # of bases      : 52
-Correspondence level  : 0.5
+Affinity level  : 0.5
 ==============================================================
 Tb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
 Tl-X_E'               :         3'-TGCACATGTCGGAGCAAAAAAAA-5'
 # of paired bases     : 26
 Total # of bases      : 50
-Correspondence level  : 0.52
+Affinity level  : 0.52
 ==============================================================
 T-D'_C_F'_B           :           5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
 T-D_C'_F_B'_A'        : 3'-GTCGCTGGCCCGGTCACCTTCCACGTCGATGCCAC-5'
 # of paired bases     : 50
 Total # of bases      : 60
-Correspondence level  : 0.8333333333333334
+Affinity level  : 0.8333333333333334
 ==============================================================
 T-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
 Tl-B_A                :                    3'-TGACCGGGCCAGCGACAAAAAAAA-5'
 # of paired bases     : 32
 Total # of bases      : 59
-Correspondence level  : 0.5423728813559322
+Affinity level  : 0.5423728813559322
 ==============================================================
 Tl-X_E'               :  5'-AAAAAAAACGAGGCTGTACACGT-3'
 Bl-precip'            : 3'-CTTTCTCTTTCTCTTTC-5'
 # of paired bases     : 20
 Total # of bases      : 40
-Correspondence level  : 0.5
+Affinity level  : 0.5
 ==============================================================
 Bb-A'                 :         5'-GCGACCTCCGAAAAAAAA-3'
 Bl-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
 # of paired bases     : 22
 Total # of bases      : 42
-Correspondence level  : 0.5238095238095238
+Affinity level  : 0.5238095238095238
 ==============================================================
 Bb-D_E_F              :       5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
 B-D'_C_F'_B           : 3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
 # of paired bases     : 26
 Total # of bases      : 52
-Correspondence level  : 0.5
+Affinity level  : 0.5
 ==============================================================
 B-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
 B-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
 # of paired bases     : 50
 Total # of bases      : 60
-Correspondence level  : 0.8333333333333334
+Affinity level  : 0.8333333333333334
 ==============================================================
 B-D_C'_F_B'_A'        :         5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
 Bl-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
 # of paired bases     : 32
 Total # of bases      : 59
-Correspondence level  : 0.5423728813559322
+Affinity level  : 0.5423728813559322
 ==============================================================
 TbL-Hinge             : 5'-GCATGAACACGAAAAAAAA-3'
 Tl-precip'            :     3'-GTTGTGTTGTGTTGTG-5'
 # of paired bases     : 20
 Total # of bases      : 35
-Correspondence level  : 0.5714285714285714
+Affinity level  : 0.5714285714285714
 ==============================================================
 TbL-Hinge             : 5'-GCATGAACACGAAAAAAAA-3'
 Bl-precip'            : 3'-CTTTCTCTTTCTCTTTC-5'
 # of paired bases     : 20
 Total # of bases      : 36
-Correspondence level  : 0.5555555555555556
+Affinity level  : 0.5555555555555556
 ==============================================================
 TlL-Hinge             : 5'-GCACAAGTACGAAAAAAAA-3'
 Bl-precip'            : 3'-CTTTCTCTTTCTCTTTC-5'
 # of paired bases     : 20
 Total # of bases      : 36
-Correspondence level  : 0.5555555555555556
+Affinity level  : 0.5555555555555556
 ==============================================================
 BbL-Hinge             :  5'-AAAAAAAAAGACCAGTGAC-3'
 Tl-precip'            : 3'-GTTGTGTTGTGTTGTG-5'
 # of paired bases     : 18
 Total # of bases      : 35
-Correspondence level  : 0.5142857142857142
+Affinity level  : 0.5142857142857142
 ==============================================================
 BbL-Hinge             :  5'-AAAAAAAAAGACCAGTGAC-3'
 Bl-precip'            : 3'-CTTTCTCTTTCTCTTTC-5'
 # of paired bases     : 20
 Total # of bases      : 36
-Correspondence level  : 0.5555555555555556
+Affinity level  : 0.5555555555555556
 ==============================================================
 BbR-Hinge             : 5'-AAAAAAAAAACAGCCTGCT-3'
 Tl-precip'            : 3'-GTTGTGTTGTGTTGTG-5'
 # of paired bases     : 18
 Total # of bases      : 35
-Correspondence level  : 0.5142857142857142
+Affinity level  : 0.5142857142857142
 ==============================================================
 BbR-Hinge             : 5'-AAAAAAAAAACAGCCTGCT-3'
 Bl-precip'            : 3'-CTTTCTCTTTCTCTTTC-5'
 # of paired bases     : 20
 Total # of bases      : 36
-Correspondence level  : 0.5555555555555556
+Affinity level  : 0.5555555555555556
 ==============================================================
 BlL-Hinge             :  5'-AAAAAAAAACAGTGACCAG-3'
 Bl-precip'            : 3'-CTTTCTCTTTCTCTTTC-5'
 # of paired bases     : 20
 Total # of bases      : 36
-Correspondence level  : 0.5555555555555556
+Affinity level  : 0.5555555555555556
 ==============================================================
 BlR-Hinge             : 5'-AAAAAAAAAATCGTCCGAC-3'
 Bl-precip'            : 3'-CTTTCTCTTTCTCTTTC-5'
 # of paired bases     : 18
 Total # of bases      : 36
-Correspondence level  : 0.5
+Affinity level  : 0.5
 ==============================================================
 Tl-precip             : 5'-AAACAACACAACACAACAC-3'
 Tl-precip'            :    3'-GTTGTGTTGTGTTGTG-5'
 # of paired bases     : 32
 Total # of bases      : 35
-Correspondence level  : 0.9142857142857143
+Affinity level  : 0.9142857142857143
 ==============================================================
 Bl-precip             : 5'-AAAGAAAGAGAAAGAGAAAG-3'
 Bl-precip'            :    3'-CTTTCTCTTTCTCTTTC-5'
 # of paired bases     : 34
 Total # of bases      : 37
-Correspondence level  : 0.918918918918919
+Affinity level  : 0.918918918918919
 ==============================================================

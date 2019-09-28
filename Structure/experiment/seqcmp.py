@@ -68,19 +68,19 @@ def main():
 
 	print("[Notation]")
 	print("\tl : lid")
-	print("\tb : box")	
+	print("\tb : base")	
 	print("\tT : top")
 	print("\tB : bottom")
 	print("\tL : left-hand side")
 	print("\tR : right-hand side")
-	print("\tCorrespondence level ＝ # of paired bases / total # of bases")
+	print("\tAffinity level ＝ # of paired bases / total # of bases")
 	print("==============================================================")
 
 	for i in range(0,28):
 		for j in range(i+1,28):
 			maximum, percentage, state, pos = trim(seq[i], seq[j][::-1])
-			if (percentage < 0.50):
-				continue
+			#if (percentage < 0.50):
+			#	continue
 			len1 = len(seq[i])
 			len2 = len(seq[j])
 			space1 = 0
@@ -99,7 +99,7 @@ def main():
 			print('{name: <22}: {space}{sequence}'.format(**seq2))
 			print("# of paired bases     : {}".format(maximum))
 			print("Total # of bases      : {}".format(len(seq[i]+seq[j])))
-			print("Correspondence level  : {}".format(percentage))
+			print("Affinity level  : {}".format(percentage))
 			print("==============================================================")
 
 main()
