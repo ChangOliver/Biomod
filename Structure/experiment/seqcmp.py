@@ -60,11 +60,8 @@ def main():
 	link_name = ["TR-link", "TL-link", "BR-link", "BL-link"]
 	link = ["CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC", "CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC", "AGCAGGCTGAAAAAAAAAAAAGTCGGACGAA", "GTCACTGGTCAAAAAAAAAAAACTGGTCACTG"]
 	
-	precip_name = ["Tl-precip", "Tl-precip'", "Bl-precip", "Bl-precip'"]
-	precip = ["AAACAACACAACACAACAC", "GTGTTGTGTTGTGTTG", "AAAGAAAGAGAAAGAGAAAG", "CTTTCTCTTTCTCTTTC"]
-	
-	seq = Top + Bottom + hinge + link + precip
-	name = Top_name + Bottom_name + hinge_name + link_name + precip_name
+	seq = Top + Bottom + hinge + link
+	name = Top_name + Bottom_name + hinge_name + link_name
 
 	print("[Notation]")
 	print("\tl : lid")
@@ -76,8 +73,8 @@ def main():
 	print("\tAffinity level ＝ # of paired bases / total # of bases")
 	print("==============================================================")
 
-	for i in range(0,28):
-		for j in range(i+1,28):
+	for i in range(0,24):
+		for j in range(i+1,24):
 			maximum, percentage, state, pos = trim(seq[i], seq[j][::-1])
 			#if (percentage < 0.50):
 			#	continue
