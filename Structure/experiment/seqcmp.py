@@ -48,26 +48,24 @@ def trim(seq1, seq2):
 
 def main():
 
-	Top_name = ["Tb-A'", "Tb-D_E_F", "T-D'_C_F'_B", "T-D_C'_F_B'_A'", "Tl-B_A", "Tl-X_E'"]
-	Top = ["AAAAAAAACCGGTCGCTG", "AAAAAAAACACCGTACAGCCTCGTTCC", "GCCAGTGGAAGGTGCAGCTACGGTG", "CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG", "AAAAAAAACAGCGACCGGGCCAGT", "AAAAAAAACGAGGCTGTACACGT"]
+	Left_name = ["Lb-A'", "Lb-D_E_F", "L-D'_C_F'_B", "L-D_C'_F_B'_A'", "Ll-B_A", "Ll-X_E'"]
+	Left = ["AAAAAAAACCGGTCGCTG", "AAAAAAAACACCGTACAGCCTCGTTCC", "GCCAGTGGAAGGTGCAGCTACGGTG", "CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG", "AAAAAAAACAGCGACCGGGCCAGT", "AAAAAAAACGAGGCTGTACACGT"]
 
-	Bottom_name = ["Bb-A'", "Bb-D_E_F", "B-D'_C_F'_B", "B-D_C'_F_B'_A'", "Bl-B_A", "Bl-X_E'"]
-	Bottom = ["GCGACCTCCGAAAAAAAA", "AGCTGCGGCAGCTGAGTCCAAAAAAAA", "GGACTCCGACTGCGTAGCTCGTCAG", "GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC", "CGTCAGCGGAGGTCGCAAAAAAAA", "ACTATCAGCTGCCGCAAAAAAAA"]
+	Right_name = ["Rb-A'", "Rb-D_E_F", "R-D'_C_F'_B", "R-D_C'_F_B'_A'", "Rl-B_A", "Rl-X_E'"]
+	Right = ["GCGACCTCCGAAAAAAAA", "AGCTGCGGCAGCTGAGTCCAAAAAAAA", "GGACTCCGACTGCGTAGCTCGTCAG", "GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC", "CGTCAGCGGAGGTCGCAAAAAAAA", "ACTATCAGCTGCCGCAAAAAAAA"]
 
-	hinge_name = ["TbR-Hinge", "TlR-Hinge", "TbL-Hinge", "TlL-Hinge", "BbL-Hinge", "BbR-Hinge", "BlL-Hinge", "BlR-Hinge"]
-	hinge = ["GTCCGTGTCACAAAAAAAA", "CACTGTGCCTGAAAAAAAA", "GCATGAACACGAAAAAAAA", "GCACAAGTACGAAAAAAAA", "AAAAAAAAAGACCAGTGAC", "AAAAAAAAAACAGCCTGCT", "AAAAAAAAACAGTGACCAG", "AAAAAAAAAATCGTCCGAC"]
+	hinge_name = ["Lb-Hinge1", "Ll-Hinge1", "Lb-Hinge2", "Ll-Hinge2", "Rb-Hinge1", "Rl-Hinge1", "Rb-Hinge2", "Rl-Hinge2"]
+	hinge = ["GTCCGTGTCACAAAAAAAA", "CACTGTGCCTGAAAAAAAA", "GCATGAACACGAAAAAAAA", "GCACAAGTACGAAAAAAAA","AAAAAAAAAACAGCCTGCT", "AAAAAAAAAATCGTCCGAC", "AAAAAAAAAGACCAGTGAC", "AAAAAAAAACAGTGACCAG"]
 
-	link_name = ["TR-link", "TL-link", "BR-link", "BL-link"]
-	link = ["CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC", "CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC", "AGCAGGCTGAAAAAAAAAAAAGTCGGACGAA", "GTCACTGGTCAAAAAAAAAAAACTGGTCACTG"]
+	link_name = ["L-link1", "L-link2", "R-link1", "R-link2"]
+	link = ["CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC", "CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC", "AGCAGGCTGAAAAAAAAAAAAGTCGGACGA", "GTCACTGGTCAAAAAAAAAAAACTGGTCACTG"]
 	
-	seq = Top + Bottom + hinge + link
-	name = Top_name + Bottom_name + hinge_name + link_name
+	seq = Left + Right + hinge + link
+	name = Left_name + Right_name + hinge_name + link_name
 
 	print("[Notation]")
 	print("\tl : lid")
 	print("\tb : base")	
-	print("\tT : top")
-	print("\tB : bottom")
 	print("\tL : left-hand side")
 	print("\tR : right-hand side")
 	print("\tAffinity level ＝ # of paired bases / total # of bases")
@@ -76,8 +74,8 @@ def main():
 	for i in range(0,24):
 		for j in range(i+1,24):
 			maximum, percentage, state, pos = trim(seq[i], seq[j][::-1])
-			#if (percentage < 0.50):
-			#	continue
+			if (percentage < 0.50):
+				continue
 			len1 = len(seq[i])
 			len2 = len(seq[j])
 			space1 = 0
