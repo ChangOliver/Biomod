@@ -5,56 +5,56 @@
 	R : right-hand side
 	Affinity level ＝ # of paired bases / total # of bases
 ==============================================================
-Lb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
-Ll-B_A                :   3'-TGACCGGGCCAGCGACAAAAAAAA-5'
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Rl-B_A                :   3'-TGACCGGGCCAGCGACAAAAAAAA-5'
 # of paired bases     : 22
 Total # of bases      : 42
 Affinity level  : 0.5238095238095238
 ==============================================================
-Lb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
-L-D'_C_F'_B           :         3'-GTGGCATCGACGTGGAAGGTGACCG-5'
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+R-D'_C_F'_B           :         3'-GTGGCATCGACGTGGAAGGTGACCG-5'
 # of paired bases     : 26
 Total # of bases      : 52
 Affinity level  : 0.5
 ==============================================================
-Lb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
-Ll-X_E'               :         3'-TGCACATGTCGGAGCAAAAAAAA-5'
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Rl-X_E'               :         3'-TGCACATGTCGGAGCAAAAAAAA-5'
 # of paired bases     : 26
 Total # of bases      : 50
 Affinity level  : 0.52
 ==============================================================
-L-D'_C_F'_B           :           5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
-L-D_C'_F_B'_A'        : 3'-GTCGCTGGCCCGGTCACCTTCCACGTCGATGCCAC-5'
+R-D'_C_F'_B           :           5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+R-D_C'_F_B'_A'        : 3'-GTCGCTGGCCCGGTCACCTTCCACGTCGATGCCAC-5'
 # of paired bases     : 50
 Total # of bases      : 60
 Affinity level  : 0.8333333333333334
 ==============================================================
-L-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
-Ll-B_A                :                    3'-TGACCGGGCCAGCGACAAAAAAAA-5'
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Rl-B_A                :                    3'-TGACCGGGCCAGCGACAAAAAAAA-5'
 # of paired bases     : 32
 Total # of bases      : 59
 Affinity level  : 0.5423728813559322
 ==============================================================
-Rb-A'                 :         5'-GCGACCTCCGAAAAAAAA-3'
-Rl-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+Lb-A'                 :         5'-GCGACCTCCGAAAAAAAA-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
 # of paired bases     : 22
 Total # of bases      : 42
 Affinity level  : 0.5238095238095238
 ==============================================================
-Rb-D_E_F              :       5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
-R-D'_C_F'_B           : 3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+Lb-D_E_F              :       5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+L-D'_C_F'_B           : 3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
 # of paired bases     : 26
 Total # of bases      : 52
 Affinity level  : 0.5
 ==============================================================
-R-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
-R-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+L-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+L-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
 # of paired bases     : 50
 Total # of bases      : 60
 Affinity level  : 0.8333333333333334
 ==============================================================
-R-D_C'_F_B'_A'        :         5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
-Rl-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+L-D_C'_F_B'_A'        :         5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
 # of paired bases     : 32
 Total # of bases      : 59
 Affinity level  : 0.5423728813559322
