@@ -21,8 +21,8 @@ def trim(seq1, seq2):
 	state = 0
 	pos = 0
 
-	#state 1:ATCGATCG  				~ ATCGATCG
-	#		 		ATCGATCGATCG   	  ATCGATCGATCG
+	#state 1:ATCGATCG  		~ ATCGATCG
+	#		ATCGATCGATCG   	  ATCGATCGATCG
 	for i in range(1, len1+1):
 		sub1 = seq1[-i:]
 		sub2 = seq2[:i]
@@ -33,7 +33,7 @@ def trim(seq1, seq2):
 			pos = i
 
 	#state 2: ATCGATCG    ~     ATCGATCG
-	#		 ATCGATCGATCG	ATCGATCGATCG
+	#	 ATCGATCGATCG	ATCGATCGATCG
 	for i in range(1,len2-len1+1):
 		sub2 = seq2[i:i+len1]
 		comp = complementarity(sub1, sub2)
@@ -42,8 +42,8 @@ def trim(seq1, seq2):
 			state = 2
 			pos = i
 
-	#state 3:	  ATCGATCG  ~             ATCGATCG
-	#		 ATCGATCGATCG	   ATCGATCGATCG
+	#state 3:      ATCGATCG  ~            ATCGATCG
+	#	  ATCGATCGATCG	   ATCGATCGATCG
 	for i in range(1,len1):
 		sub1 = seq1[:-i]
 		sub2 = seq2[len2-len1+i:]
