@@ -1,6 +1,6 @@
 
 #count number of bases that are paired
-def affinity(seq1, seq2):
+def complementarity(seq1, seq2):
 	cnt = 0
 	length = len(seq1)
 	for i in range(0, length):
@@ -8,7 +8,7 @@ def affinity(seq1, seq2):
 			cnt += 1
 	return cnt*2
 
-#trim sequence for affinity calculation
+#trim sequence for complementarity calculation
 def trim(seq1, seq2):
 
 	if (len(seq1) > len(seq2)):
@@ -26,9 +26,9 @@ def trim(seq1, seq2):
 	for i in range(1, len1+1):
 		sub1 = seq1[-i:]
 		sub2 = seq2[:i]
-		affi = affinity(sub1, sub2)
-		if (affi > maximum):
-			maximum = affi
+		comp = complementarity(sub1, sub2)
+		if (comp > maximum):
+			maximum = comp
 			state = 1
 			pos = i
 
@@ -36,9 +36,9 @@ def trim(seq1, seq2):
 	#		 ATCGATCGATCG	ATCGATCGATCG
 	for i in range(1,len2-len1+1):
 		sub2 = seq2[i:i+len1]
-		affi = affinity(sub1, sub2)
-		if (affi > maximum):
-			maximum = affi
+		comp = complementarity(sub1, sub2)
+		if (comp > maximum):
+			maximum = comp
 			state = 2
 			pos = i
 
@@ -47,9 +47,9 @@ def trim(seq1, seq2):
 	for i in range(1,len1):
 		sub1 = seq1[:-i]
 		sub2 = seq2[len2-len1+i:]
-		affi = affinity(sub1, sub2)
-		if (affi > maximum):
-			maximum = affi
+		comp = complementarity(sub1, sub2)
+		if (comp > maximum):
+			maximum = comp
 			state = 3
 			pos = i
 
@@ -78,7 +78,7 @@ def main():
 	print("\tb : base")	
 	print("\tL : left-hand side")
 	print("\tR : right-hand side")
-	print("\tAffinity level ＝ # of paired bases / total # of bases")
+	print("\tComplementary level ＝ # of paired bases / total # of bases")
 	print("==============================================================")
 
 	for i in range(0,24):
@@ -109,7 +109,7 @@ def main():
 			print('{name: <22}: {space}{sequence}'.format(**seq2))
 			print("# of paired bases     : {}".format(maximum))
 			print("Total # of bases      : {}".format(len(seq[i]+seq[j])))
-			print("Affinity level  : {}".format(percentage))
+			print("Complementary level  : {}".format(percentage))
 			print("==============================================================")
 
 main()
