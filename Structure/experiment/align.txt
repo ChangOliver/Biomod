@@ -1,0 +1,51 @@
+[Notation]
+	l : lid
+	b : base
+	L : left-hand side
+	R : right-hand side
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Rl-B_A                :   3'-TGACCGGGCCAGCGACAAAAAAAA-5'
+# of paired bases     : 22
+Total # of bases      : 42
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+R-D'_C_F'_B           :         3'-GTGGCATCGACGTGGAAGGTGACCG-5'
+# of paired bases     : 26
+Total # of bases      : 52
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Rl-X_E'               :         3'-TGCACATGTCGGAGCAAAAAAAA-5'
+# of paired bases     : 26
+Total # of bases      : 50
+==============================================================
+R-D'_C_F'_B           :           5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+R-D_C'_F_B'_A'        : 3'-GTCGCTGGCCCGGTCACCTTCCACGTCGATGCCAC-5'
+# of paired bases     : 50
+Total # of bases      : 60
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Rl-B_A                :                    3'-TGACCGGGCCAGCGACAAAAAAAA-5'
+# of paired bases     : 32
+Total # of bases      : 59
+==============================================================
+Lb-A'                 :         5'-GCGACCTCCGAAAAAAAA-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 22
+Total # of bases      : 42
+==============================================================
+Lb-D_E_F              :       5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+L-D'_C_F'_B           : 3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+# of paired bases     : 26
+Total # of bases      : 52
+==============================================================
+L-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+L-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 50
+Total # of bases      : 60
+==============================================================
+L-D_C'_F_B'_A'        :         5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 32
+Total # of bases      : 59
+==============================================================
