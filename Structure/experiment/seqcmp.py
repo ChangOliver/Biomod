@@ -53,7 +53,7 @@ def trim(seq1, seq2):
 			state = 3
 			pos = i
 
-	return maximum, maximum / (len1+len2), state, pos
+	return maximum, state, pos
 
 def main():
 
@@ -78,16 +78,11 @@ def main():
 	print("\tb : base")	
 	print("\tL : left-hand side")
 	print("\tR : right-hand side")
-	print("\tComplementary level ＝ # of paired bases / total # of bases")
 	print("==============================================================")
 
 	for i in range(0,24):
 		for j in range(i+1,24):
-			maximum, percentage, state, pos = trim(seq[i], seq[j][::-1])
-			
-			#threshold
-			if (percentage < 0.50):
-				continue
+			maximum, state, pos = trim(seq[i], seq[j][::-1])
 
 			len1 = len(seq[i])
 			len2 = len(seq[j])
@@ -109,7 +104,6 @@ def main():
 			print('{name: <22}: {space}{sequence}'.format(**seq2))
 			print("# of paired bases     : {}".format(maximum))
 			print("Total # of bases      : {}".format(len(seq[i]+seq[j])))
-			print("Complementary level  : {}".format(percentage))
 			print("==============================================================")
 
 main()

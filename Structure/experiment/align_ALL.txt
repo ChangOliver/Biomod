@@ -1,0 +1,1386 @@
+[Notation]
+	l : lid
+	b : base
+	L : left-hand side
+	R : right-hand side
+==============================================================
+Rb-A'                 :  5'-AAAAAAAACCGGTCGCTG-3'
+Rb-D_E_F              : 3'-CCTTGCTCCGACATGCCACAAAAAAAA-5'
+# of paired bases     : 18
+Total # of bases      : 45
+==============================================================
+Rb-A'                 :      5'-AAAAAAAACCGGTCGCTG-3'
+R-D'_C_F'_B           : 3'-GTGGCATCGACGTGGAAGGTGACCG-5'
+# of paired bases     : 16
+Total # of bases      : 43
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+R-D_C'_F_B'_A'        :  3'-GTCGCTGGCCCGGTCACCTTCCACGTCGATGCCAC-5'
+# of paired bases     : 16
+Total # of bases      : 53
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Rl-B_A                :   3'-TGACCGGGCCAGCGACAAAAAAAA-5'
+# of paired bases     : 22
+Total # of bases      : 42
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Rl-X_E'               : 3'-TGCACATGTCGGAGCAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 41
+==============================================================
+Rb-A'                 :   5'-AAAAAAAACCGGTCGCTG-3'
+Lb-A'                 : 3'-AAAAAAAAGCCTCCAGCG-5'
+# of paired bases     : 12
+Total # of bases      : 36
+==============================================================
+Rb-A'                 :        5'-AAAAAAAACCGGTCGCTG-3'
+Lb-D_E_F              : 3'-AAAAAAAACCTGAGTCGACGGCGTCGA-5'
+# of paired bases     : 16
+Total # of bases      : 45
+==============================================================
+Rb-A'                 :     5'-AAAAAAAACCGGTCGCTG-3'
+L-D'_C_F'_B           : 3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+# of paired bases     : 16
+Total # of bases      : 43
+==============================================================
+Rb-A'                 :   5'-AAAAAAAACCGGTCGCTG-3'
+L-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 14
+Total # of bases      : 53
+==============================================================
+Rb-A'                 :    5'-AAAAAAAACCGGTCGCTG-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 12
+Total # of bases      : 42
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Ll-X_E'               : 3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 14
+Total # of bases      : 41
+==============================================================
+Rb-A'                 :      5'-AAAAAAAACCGGTCGCTG-3'
+Rb-Hinge1             : 3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 10
+Total # of bases      : 37
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Rl-Hinge1             :  3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 10
+Total # of bases      : 37
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 10
+Total # of bases      : 37
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Rl-Hinge2             :   3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 8
+Total # of bases      : 37
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Lb-Hinge1             :       3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 37
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Ll-Hinge1             :        3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 37
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Lb-Hinge2             :     3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 37
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+Ll-Hinge2             :         3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 37
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+R-link1               :      3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 12
+Total # of bases      : 52
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+R-link2               :  3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 14
+Total # of bases      : 52
+==============================================================
+Rb-A'                 :              5'-AAAAAAAACCGGTCGCTG-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 10
+Total # of bases      : 48
+==============================================================
+Rb-A'                 : 5'-AAAAAAAACCGGTCGCTG-3'
+L-link2               :   3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 14
+Total # of bases      : 50
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+R-D'_C_F'_B           :         3'-GTGGCATCGACGTGGAAGGTGACCG-5'
+# of paired bases     : 26
+Total # of bases      : 52
+==============================================================
+Rb-D_E_F              :          5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+R-D_C'_F_B'_A'        : 3'-GTCGCTGGCCCGGTCACCTTCCACGTCGATGCCAC-5'
+# of paired bases     : 22
+Total # of bases      : 62
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Rl-B_A                :    3'-TGACCGGGCCAGCGACAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 51
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Rl-X_E'               :         3'-TGCACATGTCGGAGCAAAAAAAA-5'
+# of paired bases     : 26
+Total # of bases      : 50
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Lb-A'                 :           3'-AAAAAAAAGCCTCCAGCG-5'
+# of paired bases     : 10
+Total # of bases      : 45
+==============================================================
+Rb-D_E_F              :  5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Lb-D_E_F              : 3'-AAAAAAAACCTGAGTCGACGGCGTCGA-5'
+# of paired bases     : 14
+Total # of bases      : 54
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+L-D'_C_F'_B           :   3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+# of paired bases     : 18
+Total # of bases      : 52
+==============================================================
+Rb-D_E_F              :  5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+L-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 20
+Total # of bases      : 62
+==============================================================
+Rb-D_E_F              :      5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 12
+Total # of bases      : 51
+==============================================================
+Rb-D_E_F              :     5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Ll-X_E'               : 3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 12
+Total # of bases      : 50
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Rb-Hinge1             :        3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 12
+Total # of bases      : 46
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Rl-Hinge1             :        3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 14
+Total # of bases      : 46
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Rb-Hinge2             :        3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 12
+Total # of bases      : 46
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Rl-Hinge2             :        3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 14
+Total # of bases      : 46
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Lb-Hinge1             :       3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 46
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Ll-Hinge1             :          3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 46
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Lb-Hinge2             :       3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 46
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+Ll-Hinge2             :         3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 46
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+R-link1               :         3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 16
+Total # of bases      : 61
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+R-link2               :  3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 20
+Total # of bases      : 61
+==============================================================
+Rb-D_E_F              :       5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 18
+Total # of bases      : 57
+==============================================================
+Rb-D_E_F              : 5'-AAAAAAAACACCGTACAGCCTCGTTCC-3'
+L-link2               :         3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 18
+Total # of bases      : 59
+==============================================================
+R-D'_C_F'_B           :           5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+R-D_C'_F_B'_A'        : 3'-GTCGCTGGCCCGGTCACCTTCCACGTCGATGCCAC-5'
+# of paired bases     : 50
+Total # of bases      : 60
+==============================================================
+R-D'_C_F'_B           :      5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Rl-B_A                : 3'-TGACCGGGCCAGCGACAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 49
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Rl-X_E'               :        3'-TGCACATGTCGGAGCAAAAAAAA-5'
+# of paired bases     : 18
+Total # of bases      : 48
+==============================================================
+R-D'_C_F'_B           :    5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Lb-A'                 : 3'-AAAAAAAAGCCTCCAGCG-5'
+# of paired bases     : 12
+Total # of bases      : 43
+==============================================================
+R-D'_C_F'_B           :   5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Lb-D_E_F              : 3'-AAAAAAAACCTGAGTCGACGGCGTCGA-5'
+# of paired bases     : 20
+Total # of bases      : 52
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+L-D'_C_F'_B           :          3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+# of paired bases     : 18
+Total # of bases      : 50
+==============================================================
+R-D'_C_F'_B           :      5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+L-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 22
+Total # of bases      : 60
+==============================================================
+R-D'_C_F'_B           :   5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 16
+Total # of bases      : 49
+==============================================================
+R-D'_C_F'_B           :           5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Ll-X_E'               : 3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 16
+Total # of bases      : 48
+==============================================================
+R-D'_C_F'_B           :     5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Rb-Hinge1             : 3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 12
+Total # of bases      : 44
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Rl-Hinge1             :       3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 18
+Total # of bases      : 44
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Rb-Hinge2             :   3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 12
+Total # of bases      : 44
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Rl-Hinge2             :   3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 12
+Total # of bases      : 44
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Lb-Hinge1             :      3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 44
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Ll-Hinge1             : 3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 44
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Lb-Hinge2             : 3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 44
+==============================================================
+R-D'_C_F'_B           :    5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+Ll-Hinge2             : 3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 44
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+R-link1               : 3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 16
+Total # of bases      : 59
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+R-link2               :  3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 16
+Total # of bases      : 59
+==============================================================
+R-D'_C_F'_B           :        5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 14
+Total # of bases      : 55
+==============================================================
+R-D'_C_F'_B           : 5'-GCCAGTGGAAGGTGCAGCTACGGTG-3'
+L-link2               :   3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 20
+Total # of bases      : 57
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Rl-B_A                :                    3'-TGACCGGGCCAGCGACAAAAAAAA-5'
+# of paired bases     : 32
+Total # of bases      : 59
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Rl-X_E'               :              3'-TGCACATGTCGGAGCAAAAAAAA-5'
+# of paired bases     : 20
+Total # of bases      : 58
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Lb-A'                 :                3'-AAAAAAAAGCCTCCAGCG-5'
+# of paired bases     : 18
+Total # of bases      : 53
+==============================================================
+R-D_C'_F_B'_A'        :            5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Lb-D_E_F              : 3'-AAAAAAAACCTGAGTCGACGGCGTCGA-5'
+# of paired bases     : 20
+Total # of bases      : 62
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+L-D'_C_F'_B           : 3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+# of paired bases     : 20
+Total # of bases      : 60
+==============================================================
+R-D_C'_F_B'_A'        :   5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+L-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 24
+Total # of bases      : 70
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Ll-B_A                :   3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 24
+Total # of bases      : 59
+==============================================================
+R-D_C'_F_B'_A'        :  5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Ll-X_E'               : 3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 20
+Total # of bases      : 58
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Rb-Hinge1             :             3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 18
+Total # of bases      : 54
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Rl-Hinge1             :             3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 18
+Total # of bases      : 54
+==============================================================
+R-D_C'_F_B'_A'        :  5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 12
+Total # of bases      : 54
+==============================================================
+R-D_C'_F_B'_A'        :      5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Rl-Hinge2             : 3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 14
+Total # of bases      : 54
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Lb-Hinge1             :       3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 54
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Ll-Hinge1             :     3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 54
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Lb-Hinge2             :     3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 18
+Total # of bases      : 54
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+Ll-Hinge2             :                          3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 54
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+R-link1               :  3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 26
+Total # of bases      : 69
+==============================================================
+R-D_C'_F_B'_A'        :       5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 24
+Total # of bases      : 69
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+L-link1               :     3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 20
+Total # of bases      : 65
+==============================================================
+R-D_C'_F_B'_A'        : 5'-CACCGTAGCTGCACCTTCCACTGGCCCGGTCGCTG-3'
+L-link2               :  3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 24
+Total # of bases      : 67
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Rl-X_E'               :  3'-TGCACATGTCGGAGCAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 47
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Lb-A'                 : 3'-AAAAAAAAGCCTCCAGCG-5'
+# of paired bases     : 10
+Total # of bases      : 42
+==============================================================
+Rl-B_A                :      5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Lb-D_E_F              : 3'-AAAAAAAACCTGAGTCGACGGCGTCGA-5'
+# of paired bases     : 18
+Total # of bases      : 51
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+L-D'_C_F'_B           :    3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+# of paired bases     : 18
+Total # of bases      : 49
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+L-D_C'_F_B'_A'        :      3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 18
+Total # of bases      : 59
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Ll-B_A                :   3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 16
+Total # of bases      : 48
+==============================================================
+Rl-B_A                :     5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Ll-X_E'               : 3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 10
+Total # of bases      : 47
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Rb-Hinge1             :   3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 14
+Total # of bases      : 43
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Rl-Hinge1             : 3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 14
+Total # of bases      : 43
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Rb-Hinge2             :  3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 10
+Total # of bases      : 43
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Rl-Hinge2             :        3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 10
+Total # of bases      : 43
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Lb-Hinge1             :          3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 43
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Ll-Hinge1             :              3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 43
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Lb-Hinge2             :           3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 43
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+Ll-Hinge2             :                3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 43
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+R-link1               :             3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 16
+Total # of bases      : 58
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+R-link2               :        3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 12
+Total # of bases      : 58
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+L-link1               :           3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 12
+Total # of bases      : 54
+==============================================================
+Rl-B_A                : 5'-AAAAAAAACAGCGACCGGGCCAGT-3'
+L-link2               :         3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 18
+Total # of bases      : 56
+==============================================================
+Rl-X_E'               :  5'-AAAAAAAACGAGGCTGTACACGT-3'
+Lb-A'                 : 3'-AAAAAAAAGCCTCCAGCG-5'
+# of paired bases     : 10
+Total # of bases      : 41
+==============================================================
+Rl-X_E'               :    5'-AAAAAAAACGAGGCTGTACACGT-3'
+Lb-D_E_F              : 3'-AAAAAAAACCTGAGTCGACGGCGTCGA-5'
+# of paired bases     : 14
+Total # of bases      : 50
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+L-D'_C_F'_B           : 3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+# of paired bases     : 20
+Total # of bases      : 48
+==============================================================
+Rl-X_E'               :     5'-AAAAAAAACGAGGCTGTACACGT-3'
+L-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 16
+Total # of bases      : 58
+==============================================================
+Rl-X_E'               :      5'-AAAAAAAACGAGGCTGTACACGT-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 12
+Total # of bases      : 47
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+Ll-X_E'               :  3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 12
+Total # of bases      : 46
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+Rb-Hinge1             :       3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 10
+Total # of bases      : 42
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+Rl-Hinge1             :           3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 10
+Total # of bases      : 42
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+Rb-Hinge2             :     3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 12
+Total # of bases      : 42
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+Rl-Hinge2             : 3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 12
+Total # of bases      : 42
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+Lb-Hinge1             :        3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 18
+Total # of bases      : 42
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+Ll-Hinge1             :   3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 42
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+Lb-Hinge2             :     3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 42
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+Ll-Hinge2             :       3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 42
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+R-link1               :      3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 12
+Total # of bases      : 57
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+R-link2               :            3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 18
+Total # of bases      : 57
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+L-link1               :    3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 12
+Total # of bases      : 53
+==============================================================
+Rl-X_E'               : 5'-AAAAAAAACGAGGCTGTACACGT-3'
+L-link2               :   3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 16
+Total # of bases      : 55
+==============================================================
+Lb-A'                 :       5'-GCGACCTCCGAAAAAAAA-3'
+Lb-D_E_F              : 3'-AAAAAAAACCTGAGTCGACGGCGTCGA-5'
+# of paired bases     : 12
+Total # of bases      : 45
+==============================================================
+Lb-A'                 :    5'-GCGACCTCCGAAAAAAAA-3'
+L-D'_C_F'_B           : 3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+# of paired bases     : 18
+Total # of bases      : 43
+==============================================================
+Lb-A'                 : 5'-GCGACCTCCGAAAAAAAA-3'
+L-D_C'_F_B'_A'        :   3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 16
+Total # of bases      : 53
+==============================================================
+Lb-A'                 :         5'-GCGACCTCCGAAAAAAAA-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 22
+Total # of bases      : 42
+==============================================================
+Lb-A'                 :         5'-GCGACCTCCGAAAAAAAA-3'
+Ll-X_E'               : 3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 16
+Total # of bases      : 41
+==============================================================
+Lb-A'                 :  5'-GCGACCTCCGAAAAAAAA-3'
+Rb-Hinge1             : 3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 10
+Total # of bases      : 37
+==============================================================
+Lb-A'                 :  5'-GCGACCTCCGAAAAAAAA-3'
+Rl-Hinge1             : 3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 10
+Total # of bases      : 37
+==============================================================
+Lb-A'                 : 5'-GCGACCTCCGAAAAAAAA-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 8
+Total # of bases      : 37
+==============================================================
+Lb-A'                 : 5'-GCGACCTCCGAAAAAAAA-3'
+Rl-Hinge2             : 3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 8
+Total # of bases      : 37
+==============================================================
+Lb-A'                 :  5'-GCGACCTCCGAAAAAAAA-3'
+Lb-Hinge1             : 3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 8
+Total # of bases      : 37
+==============================================================
+Lb-A'                 : 5'-GCGACCTCCGAAAAAAAA-3'
+Ll-Hinge1             :      3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 37
+==============================================================
+Lb-A'                 : 5'-GCGACCTCCGAAAAAAAA-3'
+Lb-Hinge2             :    3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 6
+Total # of bases      : 37
+==============================================================
+Lb-A'                 : 5'-GCGACCTCCGAAAAAAAA-3'
+Ll-Hinge2             : 3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 8
+Total # of bases      : 37
+==============================================================
+Lb-A'                 : 5'-GCGACCTCCGAAAAAAAA-3'
+R-link1               :      3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 10
+Total # of bases      : 52
+==============================================================
+Lb-A'                 :               5'-GCGACCTCCGAAAAAAAA-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 12
+Total # of bases      : 52
+==============================================================
+Lb-A'                 : 5'-GCGACCTCCGAAAAAAAA-3'
+L-link1               :    3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 12
+Total # of bases      : 48
+==============================================================
+Lb-A'                 :                     5'-GCGACCTCCGAAAAAAAA-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 12
+Total # of bases      : 50
+==============================================================
+Lb-D_E_F              :       5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+L-D'_C_F'_B           : 3'-GACTGCTCGATGCGTCAGCCTCAGG-5'
+# of paired bases     : 26
+Total # of bases      : 52
+==============================================================
+Lb-D_E_F              :  5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+L-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 22
+Total # of bases      : 62
+==============================================================
+Lb-D_E_F              :        5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 18
+Total # of bases      : 51
+==============================================================
+Lb-D_E_F              :     5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Ll-X_E'               : 3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 24
+Total # of bases      : 50
+==============================================================
+Lb-D_E_F              : 5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Rb-Hinge1             :    3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 12
+Total # of bases      : 46
+==============================================================
+Lb-D_E_F              :    5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Rl-Hinge1             : 3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 12
+Total # of bases      : 46
+==============================================================
+Lb-D_E_F              :  5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 10
+Total # of bases      : 46
+==============================================================
+Lb-D_E_F              :   5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Rl-Hinge2             : 3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 12
+Total # of bases      : 46
+==============================================================
+Lb-D_E_F              : 5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Lb-Hinge1             : 3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 46
+==============================================================
+Lb-D_E_F              : 5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Ll-Hinge1             :    3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 46
+==============================================================
+Lb-D_E_F              :   5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Lb-Hinge2             : 3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 46
+==============================================================
+Lb-D_E_F              : 5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+Ll-Hinge2             :     3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 46
+==============================================================
+Lb-D_E_F              : 5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+R-link1               : 3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 16
+Total # of bases      : 61
+==============================================================
+Lb-D_E_F              :       5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 18
+Total # of bases      : 61
+==============================================================
+Lb-D_E_F              : 5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 14
+Total # of bases      : 57
+==============================================================
+Lb-D_E_F              : 5'-AGCTGCGGCAGCTGAGTCCAAAAAAAA-3'
+L-link2               :   3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 14
+Total # of bases      : 59
+==============================================================
+L-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+L-D_C'_F_B'_A'        : 3'-CCTGAGGCTGACGCATCGAGCAGTCGCCTCCAGCG-5'
+# of paired bases     : 50
+Total # of bases      : 60
+==============================================================
+L-D'_C_F'_B           :           5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 16
+Total # of bases      : 49
+==============================================================
+L-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Ll-X_E'               :    3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 16
+Total # of bases      : 48
+==============================================================
+L-D'_C_F'_B           :          5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Rb-Hinge1             : 3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 14
+Total # of bases      : 44
+==============================================================
+L-D'_C_F'_B           :    5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Rl-Hinge1             : 3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 12
+Total # of bases      : 44
+==============================================================
+L-D'_C_F'_B           :   5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 12
+Total # of bases      : 44
+==============================================================
+L-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Rl-Hinge2             :     3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 16
+Total # of bases      : 44
+==============================================================
+L-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Lb-Hinge1             :    3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 44
+==============================================================
+L-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Ll-Hinge1             :    3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 44
+==============================================================
+L-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Lb-Hinge2             :              3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 44
+==============================================================
+L-D'_C_F'_B           :   5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+Ll-Hinge2             : 3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 44
+==============================================================
+L-D'_C_F'_B           :  5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+R-link1               : 3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 18
+Total # of bases      : 59
+==============================================================
+L-D'_C_F'_B           :     5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 18
+Total # of bases      : 59
+==============================================================
+L-D'_C_F'_B           : 5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+L-link1               :  3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 26
+Total # of bases      : 55
+==============================================================
+L-D'_C_F'_B           :    5'-GGACTCCGACTGCGTAGCTCGTCAG-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 18
+Total # of bases      : 57
+==============================================================
+L-D_C'_F_B'_A'        :         5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Ll-B_A                : 3'-AAAAAAAACGCTGGAGGCGACTGC-5'
+# of paired bases     : 32
+Total # of bases      : 59
+==============================================================
+L-D_C'_F_B'_A'        :         5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Ll-X_E'               : 3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 14
+Total # of bases      : 58
+==============================================================
+L-D_C'_F_B'_A'        : 5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Rb-Hinge1             :        3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 14
+Total # of bases      : 54
+==============================================================
+L-D_C'_F_B'_A'        : 5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Rl-Hinge1             :                3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 16
+Total # of bases      : 54
+==============================================================
+L-D_C'_F_B'_A'        : 5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 12
+Total # of bases      : 54
+==============================================================
+L-D_C'_F_B'_A'        : 5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Rl-Hinge2             : 3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 12
+Total # of bases      : 54
+==============================================================
+L-D_C'_F_B'_A'        : 5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Lb-Hinge1             :                      3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 54
+==============================================================
+L-D_C'_F_B'_A'        : 5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Ll-Hinge1             :         3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 16
+Total # of bases      : 54
+==============================================================
+L-D_C'_F_B'_A'        : 5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Lb-Hinge2             :  3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 54
+==============================================================
+L-D_C'_F_B'_A'        : 5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+Ll-Hinge2             :        3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 54
+==============================================================
+L-D_C'_F_B'_A'        :   5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+R-link1               : 3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 20
+Total # of bases      : 69
+==============================================================
+L-D_C'_F_B'_A'        :  5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 18
+Total # of bases      : 69
+==============================================================
+L-D_C'_F_B'_A'        : 5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+L-link1               :       3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 24
+Total # of bases      : 65
+==============================================================
+L-D_C'_F_B'_A'        :   5'-GCGACCTCCGCTGACGAGCTACGCAGTCGGAGTCC-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 22
+Total # of bases      : 67
+==============================================================
+Ll-B_A                :          5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+Ll-X_E'               : 3'-AAAAAAAACGCCGTCGACTATCA-5'
+# of paired bases     : 16
+Total # of bases      : 47
+==============================================================
+Ll-B_A                :      5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+Rb-Hinge1             : 3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 10
+Total # of bases      : 43
+==============================================================
+Ll-B_A                :      5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+Rl-Hinge1             : 3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 12
+Total # of bases      : 43
+==============================================================
+Ll-B_A                :  5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 10
+Total # of bases      : 43
+==============================================================
+Ll-B_A                :   5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+Rl-Hinge2             : 3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 10
+Total # of bases      : 43
+==============================================================
+Ll-B_A                : 5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+Lb-Hinge1             : 3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 43
+==============================================================
+Ll-B_A                : 5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+Ll-Hinge1             :  3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 43
+==============================================================
+Ll-B_A                : 5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+Lb-Hinge2             :  3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 43
+==============================================================
+Ll-B_A                :   5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+Ll-Hinge2             : 3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 43
+==============================================================
+Ll-B_A                : 5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+R-link1               :  3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 12
+Total # of bases      : 58
+==============================================================
+Ll-B_A                :          5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 20
+Total # of bases      : 58
+==============================================================
+Ll-B_A                :  5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 14
+Total # of bases      : 54
+==============================================================
+Ll-B_A                :  5'-CGTCAGCGGAGGTCGCAAAAAAAA-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 14
+Total # of bases      : 56
+==============================================================
+Ll-X_E'               : 5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+Rb-Hinge1             : 3'-AAAAAAAACACTGTGCCTG-5'
+# of paired bases     : 14
+Total # of bases      : 42
+==============================================================
+Ll-X_E'               :    5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+Rl-Hinge1             : 3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 14
+Total # of bases      : 42
+==============================================================
+Ll-X_E'               :     5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 10
+Total # of bases      : 42
+==============================================================
+Ll-X_E'               :        5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+Rl-Hinge2             : 3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 10
+Total # of bases      : 42
+==============================================================
+Ll-X_E'               : 5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+Lb-Hinge1             :       3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 42
+==============================================================
+Ll-X_E'               :      5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+Ll-Hinge1             : 3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 42
+==============================================================
+Ll-X_E'               : 5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+Lb-Hinge2             :    3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 42
+==============================================================
+Ll-X_E'               :       5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+Ll-Hinge2             : 3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 42
+==============================================================
+Ll-X_E'               :          5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+R-link1               : 3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 14
+Total # of bases      : 57
+==============================================================
+Ll-X_E'               :           5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 18
+Total # of bases      : 57
+==============================================================
+Ll-X_E'               :        5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 14
+Total # of bases      : 53
+==============================================================
+Ll-X_E'               :         5'-ACTATCAGCTGCCGCAAAAAAAA-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 14
+Total # of bases      : 55
+==============================================================
+Rb-Hinge1             : 5'-GTCCGTGTCACAAAAAAAA-3'
+Rl-Hinge1             : 3'-AAAAAAAAGTCCGTGTCAC-5'
+# of paired bases     : 14
+Total # of bases      : 38
+==============================================================
+Rb-Hinge1             :      5'-GTCCGTGTCACAAAAAAAA-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 12
+Total # of bases      : 38
+==============================================================
+Rb-Hinge1             :          5'-GTCCGTGTCACAAAAAAAA-3'
+Rl-Hinge2             : 3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 12
+Total # of bases      : 38
+==============================================================
+Rb-Hinge1             :     5'-GTCCGTGTCACAAAAAAAA-3'
+Lb-Hinge1             : 3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Rb-Hinge1             : 5'-GTCCGTGTCACAAAAAAAA-3'
+Ll-Hinge1             :       3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Rb-Hinge1             : 5'-GTCCGTGTCACAAAAAAAA-3'
+Lb-Hinge2             :       3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Rb-Hinge1             : 5'-GTCCGTGTCACAAAAAAAA-3'
+Ll-Hinge2             :    3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 12
+Total # of bases      : 38
+==============================================================
+Rb-Hinge1             : 5'-GTCCGTGTCACAAAAAAAA-3'
+R-link1               : 3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 22
+Total # of bases      : 53
+==============================================================
+Rb-Hinge1             :               5'-GTCCGTGTCACAAAAAAAA-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 16
+Total # of bases      : 53
+==============================================================
+Rb-Hinge1             :   5'-GTCCGTGTCACAAAAAAAA-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 12
+Total # of bases      : 49
+==============================================================
+Rb-Hinge1             :               5'-GTCCGTGTCACAAAAAAAA-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 14
+Total # of bases      : 51
+==============================================================
+Rl-Hinge1             :  5'-CACTGTGCCTGAAAAAAAA-3'
+Rb-Hinge2             : 3'-AAAAAAAAGCACAAGTACG-5'
+# of paired bases     : 12
+Total # of bases      : 38
+==============================================================
+Rl-Hinge1             :      5'-CACTGTGCCTGAAAAAAAA-3'
+Rl-Hinge2             : 3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Rl-Hinge1             :   5'-CACTGTGCCTGAAAAAAAA-3'
+Lb-Hinge1             : 3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Rl-Hinge1             : 5'-CACTGTGCCTGAAAAAAAA-3'
+Ll-Hinge1             :       3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Rl-Hinge1             :   5'-CACTGTGCCTGAAAAAAAA-3'
+Lb-Hinge2             : 3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 38
+==============================================================
+Rl-Hinge1             :      5'-CACTGTGCCTGAAAAAAAA-3'
+Ll-Hinge2             : 3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 14
+Total # of bases      : 38
+==============================================================
+Rl-Hinge1             :                        5'-CACTGTGCCTGAAAAAAAA-3'
+R-link1               : 3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 22
+Total # of bases      : 53
+==============================================================
+Rl-Hinge1             :              5'-CACTGTGCCTGAAAAAAAA-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 16
+Total # of bases      : 53
+==============================================================
+Rl-Hinge1             :       5'-CACTGTGCCTGAAAAAAAA-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 12
+Total # of bases      : 49
+==============================================================
+Rl-Hinge1             :             5'-CACTGTGCCTGAAAAAAAA-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 14
+Total # of bases      : 51
+==============================================================
+Rb-Hinge2             : 5'-GCATGAACACGAAAAAAAA-3'
+Rl-Hinge2             :  3'-AAAAAAAAGCATGAACACG-5'
+# of paired bases     : 8
+Total # of bases      : 38
+==============================================================
+Rb-Hinge2             : 5'-GCATGAACACGAAAAAAAA-3'
+Lb-Hinge1             :      3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 8
+Total # of bases      : 38
+==============================================================
+Rb-Hinge2             : 5'-GCATGAACACGAAAAAAAA-3'
+Ll-Hinge1             :        3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 8
+Total # of bases      : 38
+==============================================================
+Rb-Hinge2             : 5'-GCATGAACACGAAAAAAAA-3'
+Lb-Hinge2             :      3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 6
+Total # of bases      : 38
+==============================================================
+Rb-Hinge2             : 5'-GCATGAACACGAAAAAAAA-3'
+Ll-Hinge2             :   3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Rb-Hinge2             : 5'-GCATGAACACGAAAAAAAA-3'
+R-link1               :     3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 8
+Total # of bases      : 53
+==============================================================
+Rb-Hinge2             : 5'-GCATGAACACGAAAAAAAA-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 22
+Total # of bases      : 53
+==============================================================
+Rb-Hinge2             :                  5'-GCATGAACACGAAAAAAAA-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 8
+Total # of bases      : 49
+==============================================================
+Rb-Hinge2             :                   5'-GCATGAACACGAAAAAAAA-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 12
+Total # of bases      : 51
+==============================================================
+Rl-Hinge2             : 5'-GCACAAGTACGAAAAAAAA-3'
+Lb-Hinge1             :      3'-TCGTCCGACAAAAAAAAAA-5'
+# of paired bases     : 8
+Total # of bases      : 38
+==============================================================
+Rl-Hinge2             : 5'-GCACAAGTACGAAAAAAAA-3'
+Ll-Hinge1             :       3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Rl-Hinge2             :  5'-GCACAAGTACGAAAAAAAA-3'
+Lb-Hinge2             : 3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Rl-Hinge2             :     5'-GCACAAGTACGAAAAAAAA-3'
+Ll-Hinge2             : 3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 8
+Total # of bases      : 38
+==============================================================
+Rl-Hinge2             : 5'-GCACAAGTACGAAAAAAAA-3'
+R-link1               :       3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 10
+Total # of bases      : 53
+==============================================================
+Rl-Hinge2             :                        5'-GCACAAGTACGAAAAAAAA-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 22
+Total # of bases      : 53
+==============================================================
+Rl-Hinge2             : 5'-GCACAAGTACGAAAAAAAA-3'
+L-link1               :     3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 10
+Total # of bases      : 49
+==============================================================
+Rl-Hinge2             : 5'-GCACAAGTACGAAAAAAAA-3'
+L-link2               :    3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 10
+Total # of bases      : 51
+==============================================================
+Lb-Hinge1             : 5'-AAAAAAAAAACAGCCTGCT-3'
+Ll-Hinge1             :         3'-CAGCCTGCTAAAAAAAAAA-5'
+# of paired bases     : 8
+Total # of bases      : 38
+==============================================================
+Lb-Hinge1             : 5'-AAAAAAAAAACAGCCTGCT-3'
+Lb-Hinge2             :      3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Lb-Hinge1             : 5'-AAAAAAAAAACAGCCTGCT-3'
+Ll-Hinge2             :    3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Lb-Hinge1             :                  5'-AAAAAAAAAACAGCCTGCT-3'
+R-link1               : 3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 12
+Total # of bases      : 53
+==============================================================
+Lb-Hinge1             : 5'-AAAAAAAAAACAGCCTGCT-3'
+R-link2               :    3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 14
+Total # of bases      : 53
+==============================================================
+Lb-Hinge1             :            5'-AAAAAAAAAACAGCCTGCT-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 18
+Total # of bases      : 49
+==============================================================
+Lb-Hinge1             : 5'-AAAAAAAAAACAGCCTGCT-3'
+L-link2               :    3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 14
+Total # of bases      : 51
+==============================================================
+Ll-Hinge1             : 5'-AAAAAAAAAATCGTCCGAC-3'
+Lb-Hinge2             :      3'-CAGTGACCAGAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Ll-Hinge1             : 5'-AAAAAAAAAATCGTCCGAC-3'
+Ll-Hinge2             :          3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 8
+Total # of bases      : 38
+==============================================================
+Ll-Hinge1             : 5'-AAAAAAAAAATCGTCCGAC-3'
+R-link1               :             3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 10
+Total # of bases      : 53
+==============================================================
+Ll-Hinge1             : 5'-AAAAAAAAAATCGTCCGAC-3'
+R-link2               :   3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 12
+Total # of bases      : 53
+==============================================================
+Ll-Hinge1             : 5'-AAAAAAAAAATCGTCCGAC-3'
+L-link1               :           3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 18
+Total # of bases      : 49
+==============================================================
+Ll-Hinge1             :       5'-AAAAAAAAAATCGTCCGAC-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 12
+Total # of bases      : 51
+==============================================================
+Lb-Hinge2             : 5'-AAAAAAAAAGACCAGTGAC-3'
+Ll-Hinge2             :            3'-GACCAGTGACAAAAAAAAA-5'
+# of paired bases     : 10
+Total # of bases      : 38
+==============================================================
+Lb-Hinge2             : 5'-AAAAAAAAAGACCAGTGAC-3'
+R-link1               :           3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 10
+Total # of bases      : 53
+==============================================================
+Lb-Hinge2             : 5'-AAAAAAAAAGACCAGTGAC-3'
+R-link2               :   3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 12
+Total # of bases      : 53
+==============================================================
+Lb-Hinge2             : 5'-AAAAAAAAAGACCAGTGAC-3'
+L-link1               :           3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 8
+Total # of bases      : 49
+==============================================================
+Lb-Hinge2             :              5'-AAAAAAAAAGACCAGTGAC-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 20
+Total # of bases      : 51
+==============================================================
+Ll-Hinge2             :                 5'-AAAAAAAAACAGTGACCAG-3'
+R-link1               : 3'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-5'
+# of paired bases     : 12
+Total # of bases      : 53
+==============================================================
+Ll-Hinge2             : 5'-AAAAAAAAACAGTGACCAG-3'
+R-link2               : 3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 12
+Total # of bases      : 53
+==============================================================
+Ll-Hinge2             :      5'-AAAAAAAAACAGTGACCAG-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 10
+Total # of bases      : 49
+==============================================================
+Ll-Hinge2             : 5'-AAAAAAAAACAGTGACCAG-3'
+L-link2               :          3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 20
+Total # of bases      : 51
+==============================================================
+R-link1               : 5'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-3'
+R-link2               :    3'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-5'
+# of paired bases     : 16
+Total # of bases      : 68
+==============================================================
+R-link1               :     5'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 12
+Total # of bases      : 64
+==============================================================
+R-link1               :     5'-CAGGCACAGTGAAAAAAAAAAAAGTGACACGGAC-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 18
+Total # of bases      : 66
+==============================================================
+R-link2               :  5'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-3'
+L-link1               : 3'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-5'
+# of paired bases     : 20
+Total # of bases      : 64
+==============================================================
+R-link2               :         5'-CGTACTTGTGCAAAAAAAAAAAACGTGTTCATGC-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 18
+Total # of bases      : 66
+==============================================================
+L-link1               :  5'-AGCAGGCTGAAAAAAAAAAAAGTCGGACGA-3'
+L-link2               : 3'-GTCACTGGTCAAAAAAAAAAAACTGGTCACTG-5'
+# of paired bases     : 16
+Total # of bases      : 62
+==============================================================
